@@ -1,1 +1,0 @@
-# Claude-prompt-optimizer-skill
